@@ -74,7 +74,7 @@ Answer the following questions based on your understanding of software engineeri
         What is Requirements Engineering?
         - Process of gathering ,analyzing data and defining the requirements of a software system.
 
-        Importance in the Software Development Lifecycle:
+        Importance in the Software Development Lifecycle (Bard, 2024, June 9):
         - Ensures that the software system meets the specific requirements and goals.
         - Identifies the scope and features of the software system.
         - Helps to define the user interface and user experience.
@@ -85,7 +85,7 @@ Answer the following questions based on your understanding of software engineeri
 ## Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
     Testing in Software Engineering:
 
-        Modularity in Software Design:
+        Modularity in Software Design (Bard, 2024, June 9):
 
         - Dividing a software system into independent, self-contained modules.
         - Each module performs a specific function and interacts with other modules through well-defined interfaces.
@@ -171,16 +171,16 @@ Answer the following questions based on your understanding of software engineeri
         - Process of modifying and updating software after it has been released.
     - Types of Maintenance Activities:
         - Corrective Maintenance:
-            - Fixing defects and bugs in the software.
+            - Fixing errors & bugs in the software.
         - Adaptive Maintenance:
             - Modifying the software to adapt to changing requirements or environments.
         - Perfective Maintenance:
-            - Enhancing the software to improve its performance, usability, or features.
+            - Enhancing the software to improve its  usability ,performance, or features.
         - Preventive Maintenance:
             - Performing regular maintenance tasks to prevent defects and bugs from occurring.
     - Importance of Maintenance:
-        - Ensures that the software remains functional and reliable over time.
         - Helps to adapt the software to changing requirements and environments.
+        - Ensures that the software remains functional and reliable over time.
         - Improves the overall quality and user experience of the software.
 
 ## What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
@@ -208,7 +208,7 @@ Answer the following questions based on your understanding of software engineeri
 
     - Risk Assessment:
         - Conduct risk assessments to identify and mitigate potential ethical risks.
-        
+
     - Continuous Improvement:
         - Continuously improve ethical
 

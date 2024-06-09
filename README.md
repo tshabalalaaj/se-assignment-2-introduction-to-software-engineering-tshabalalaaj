@@ -199,12 +199,16 @@ Answer the following questions based on your understanding of software engineeri
 
     - Code of Ethics:
         - Adhere to a code of ethics that outlines the ethical principles that software engineers should follow.
+
     - Education and Training:
         - Receive education and training on ethical issues in software engineering.
+
     - Stakeholder Engagement:
         - Engage with stakeholders to understand their ethical concerns and incorporate them into the software development process.
+
     - Risk Assessment:
         - Conduct risk assessments to identify and mitigate potential ethical risks.
+        
     - Continuous Improvement:
         - Continuously improve ethical
 
